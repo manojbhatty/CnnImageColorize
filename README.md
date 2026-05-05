@@ -1,4 +1,4 @@
-# CnnChess
+# CnnImageColorize
 This is a small project I did back in 2016-2017 or so for fun that I decided to publish here now so as not to lose it. 
 
 ## Concept
